@@ -4,8 +4,9 @@
   "private": true,
   "devDependencies": {
     "concurrently": "4.1.0",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.15.3",
-    "react-scripts": "^2.1.1"
+    "react-scripts": "^2.1.5"
   },
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
@@ -26,6 +27,8 @@
     "now-build": "npm run build && mv build dist",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "styles": "stylus -u autoprefixer-stylus ./src/css/style.styl -o ./src/css/style.css",
     "styles:watch": "stylus -u autoprefixer-stylus -w ./src/css/style.styl -o ./src/css/style.css"
