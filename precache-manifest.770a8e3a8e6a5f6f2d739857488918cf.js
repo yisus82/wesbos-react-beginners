@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/wesbos-react-beginners/static/media/blanch_caps_inline-webfont.c175fe49.svg"
   },
   {
-    "revision": "e746a4b71a32c73169fdd8f0b265e219",
+    "revision": "514a86afa103293e09aa5aa8c3765bf2",
     "url": "/wesbos-react-beginners/index.html"
   }
 ];
