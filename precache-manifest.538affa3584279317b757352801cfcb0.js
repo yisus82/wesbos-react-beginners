@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "803615a4fa5b287ce0ff",
+    "revision": "e51fb2c7ea61939638ec",
     "url": "/wesbos-react-beginners/static/css/main.20af04d8.chunk.css"
   },
   {
-    "revision": "803615a4fa5b287ce0ff",
-    "url": "/wesbos-react-beginners/static/js/main.261193b5.chunk.js"
+    "revision": "e51fb2c7ea61939638ec",
+    "url": "/wesbos-react-beginners/static/js/main.39288093.chunk.js"
   },
   {
     "revision": "16f5a622723be294f075",
     "url": "/wesbos-react-beginners/static/js/runtime~main.359a76f5.js"
   },
   {
-    "revision": "2acbb67744ff638b7cb0",
-    "url": "/wesbos-react-beginners/static/js/2.ae80b2c8.chunk.js"
+    "revision": "e12ec012cca857b18294",
+    "url": "/wesbos-react-beginners/static/js/2.0626d5aa.chunk.js"
   },
   {
     "revision": "4c3fb584d3f63821357c8a9cff97f360",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/wesbos-react-beginners/static/media/haymaker-webfont.e9535f20.ttf"
   },
   {
-    "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
-    "url": "/wesbos-react-beginners/static/media/blanch_caps_inline-webfont.73a576a8.eot"
-  },
-  {
     "revision": "47e26dee9b053b540478750bdf7a87d5",
     "url": "/wesbos-react-beginners/static/media/haymaker-webfont.47e26dee.svg"
+  },
+  {
+    "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
+    "url": "/wesbos-react-beginners/static/media/blanch_caps_inline-webfont.73a576a8.eot"
   },
   {
     "revision": "1461f8e9d2084c70c00830348efe1766",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/wesbos-react-beginners/static/media/blanch_caps_inline-webfont.c175fe49.svg"
   },
   {
-    "revision": "f7a741bfdad7ababf9f394b34bcedcbc",
+    "revision": "0a266b3277d098d5f3ddf9ef19dfc75c",
     "url": "/wesbos-react-beginners/index.html"
   }
 ];
