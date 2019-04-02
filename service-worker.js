@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wesbos-react-beginners/precache-manifest.8e6ea3cdfa676507a99a58968a378843.js"
+  "/wesbos-react-beginners/precache-manifest.2939a8a0f37a897a630699bef6f0d38d.js"
 );
 
 workbox.clientsClaim();
