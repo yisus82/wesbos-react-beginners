@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "13796c765c6b012e4603",
+    "revision": "04b2f06ff08797fb4d2b",
     "url": "/wesbos-react-beginners/static/css/main.20af04d8.chunk.css"
   },
   {
-    "revision": "13796c765c6b012e4603",
-    "url": "/wesbos-react-beginners/static/js/main.861dd22e.chunk.js"
+    "revision": "04b2f06ff08797fb4d2b",
+    "url": "/wesbos-react-beginners/static/js/main.fa241378.chunk.js"
   },
   {
     "revision": "16f5a622723be294f075",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/wesbos-react-beginners/static/media/blanch_caps_inline-webfont.c175fe49.svg"
   },
   {
-    "revision": "dcd6e90fa5441e0db3f9dcaf72e7d63a",
+    "revision": "fb87b55ed03dd3d4c46ea04ad23d1de5",
     "url": "/wesbos-react-beginners/index.html"
   }
 ];
