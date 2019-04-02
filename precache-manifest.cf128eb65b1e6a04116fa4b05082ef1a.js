@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/wesbos-react-beginners/static/media/anchor.d2f8799a.svg"
   },
   {
-    "revision": "e9535f20ca175cc3fdfe2816f7c47168",
-    "url": "/wesbos-react-beginners/static/media/haymaker-webfont.e9535f20.ttf"
-  },
-  {
     "revision": "47e26dee9b053b540478750bdf7a87d5",
     "url": "/wesbos-react-beginners/static/media/haymaker-webfont.47e26dee.svg"
+  },
+  {
+    "revision": "e9535f20ca175cc3fdfe2816f7c47168",
+    "url": "/wesbos-react-beginners/static/media/haymaker-webfont.e9535f20.ttf"
   },
   {
     "revision": "73a576a8254aeafebcdc66fe9fd41ac8",
